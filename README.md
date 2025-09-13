@@ -66,10 +66,12 @@ Note: These profiling were performed on RTX 3080 with num_classes = 80 and batch
 <br/>
 
 #### Detection Model
-<img width="1862" height="329" alt="image" src="https://github.com/user-attachments/assets/d7365951-b9f7-4252-b00b-8c357b7a20c8" />
+<img width="1449" height="323" alt="image" src="https://github.com/user-attachments/assets/a7f393bf-6e7a-4318-a953-a0480e738d4e" />
+
 
 <br/>
 <br/>
 
 #### Segmentation Model
-<img width="1867" height="328" alt="image" src="https://github.com/user-attachments/assets/d6dd7707-26e1-4f6e-999d-08997a506bc9" />
+<img width="1457" height="329" alt="image" src="https://github.com/user-attachments/assets/f42ae626-b246-457f-b15e-796042e260ee" />
+
