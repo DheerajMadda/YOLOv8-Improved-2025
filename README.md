@@ -5,7 +5,7 @@ This is an unofficial implementation of the paper titled "Improvement of Yolov8 
 
 ### Model Architecture
 <br/>
-<img width="1301" height="705" alt="image" src="https://github.com/user-attachments/assets/07f499c7-4d68-468e-833b-b821cdb2b571" />
+<img width="883" height="487" alt="image" src="https://github.com/user-attachments/assets/f9997942-5e84-4724-a884-2742108da6ae" />
 
 <br/>
 <br/>
