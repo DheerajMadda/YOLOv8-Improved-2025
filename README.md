@@ -1,5 +1,5 @@
 # YOLOv8-Improved-2025
-This is an unofficial implementation of the paper titled "Improvement of Yolov8 Object Detection Based on Lightweight Neck Model for Complex Images"
+This is an unofficial implementation of the paper titled "Improvement of Yolov8 Object Detection Based on Lightweight Neck Model for Complex Images" (https://www.ias-iss.org/ojs/IAS/article/view/3514)
 
 <hr/>
 
